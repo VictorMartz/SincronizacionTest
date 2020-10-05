@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        echo "Camnbio desde git local"
+        echo "Camnbio combinados local-remoto"
     ?>
 </body>
 </html>
